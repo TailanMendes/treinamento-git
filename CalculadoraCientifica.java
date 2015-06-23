@@ -2,10 +2,11 @@ import java.lang.Math;
 
 public class CalculadoraCientifica {
 
-	/** Method: pow 
-	    Author: Created by MENDES, T. C.
-	    param [in] base
-	    param [out] expo - expoente
+	/**
+	    @Author: Created by MENDES, T. C.
+	    @param double - base
+	    @param  double - expoente
+	    @return double - resultado do pow
 	*/
 
 	public double pow(double base, expo)
