@@ -9,7 +9,7 @@ public class CalculadoraCientifica {
 	    @return double - resultado do pow
 	*/
 
-	public double pow(double base, expo)
+	public double pow(double base, double expo)
 	{
 		return Math.pow(base, expo);
 	}
